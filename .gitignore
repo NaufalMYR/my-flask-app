@@ -1,0 +1,23 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# Database files
+*.db
+
+# Virtual Environment
+venv/
+
+# Uploads directory
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test files
+test
+test_api.html
